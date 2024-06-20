@@ -58,7 +58,7 @@
 
 ![image](https://github.com/Mustafa-Shoukat1/-Analysis-of-Indian-Premier-League-/assets/162743520/73426eec-db7d-4a5e-a38d-2a00569fb2e9)
 
-# SEE NOTEBOOK FOR MORE INFORMATION
+## SEE NOTEBOOK FOR MORE
 <div style="border-radius: 20px; border: 2px solid #64B5F6; padding: 15px; background-color: black; text-align: center; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.4), 0px 6px 20px rgba(0, 0, 0, 0.19); transform: perspective(1000px) rotateX(5deg) rotateY(-5deg); transition: transform 0.5s ease-in-out;">
     <h1 style="color: yellow; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4); font-weight: bold; margin-bottom: 10px; font-size: 32px;">
         Thank you 🙌 for being with me as we explore this notebook!
